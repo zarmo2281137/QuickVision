@@ -1,0 +1,6 @@
+keyboard
+mss
+Pillow
+requests
+groq
+python-dotenv
